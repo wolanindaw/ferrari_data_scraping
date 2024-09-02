@@ -11,9 +11,10 @@ Please read the main **Jupyter Notebook** file, with all of the contents of this
 A part of this project is also the .xlsx Excel file, containing the cleaned datasetets that were scraped:
 [Excel File](https://github.com/wolanindaw/ferrari_python_web_scraping/blob/main/cleaned_scraped_ferrari_data.xlsx)
 
-The datasets were then cleaned using Excel and visualized using Power BI:
-![Power_BI_vis](src/ferrari_enginge_configurations.jpg)
+The datasets were then cleaned using Excel and visualized in Power BI:
 [Power BI Dashboard](https://github.com/wolanindaw/ferrari_python_web_scraping/blob/main/ferrari_all_models_analysis.pbix)
+
+![Power_BI_vis](src/ferrari_engine_configurations.jpg)
 
 This interactive dashboard allows the user to quickly visualize the evolution of technical specs and trends for different types of engine configurations of all Ferrari road car models (V8, V12, etc.).
 
